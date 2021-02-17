@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "env": {
+    "BASE_PATH": "/demo",
+    "NEXT_PUBLIC_BASE_PATH": "/demo",
+    "NODE_ENV": "production"
+  }
+}
